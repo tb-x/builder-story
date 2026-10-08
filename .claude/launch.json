@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "builder-story",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "5208"],
+      "port": 5208
+    }
+  ]
+}
