@@ -15,7 +15,7 @@ A talking picture book for young kids (around age 5) about building a house, mad
 - **How do I become a builder?** Play with blocks, be careful and help others, then go to builder school.
 - **You did it!** Confetti, the finished house and a Junior Builder badge.
 
-The ▶ button always works, so nothing has to be finished to turn the page; it pulses when the page's job is done. 🔊 reads the page again, ◀ goes back, and the small speaker in the corner turns sound off and on.
+The ▶ button always works, so nothing has to be finished to turn the page; it pulses when the page's job is done. 🔊 reads the page again, ◀ goes back, and the small speaker in the corner turns sound off and on. 🏠 in the other corner goes back to the list of all games.
 
 ## Run it
 
